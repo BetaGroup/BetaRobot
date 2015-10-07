@@ -3,7 +3,7 @@
   The robot adventure of the #BetaVan at Campus Party London 2013
   Creative Commons http://creativecommons.org/licenses/by-sa/3.0/
 
-  Sources available at https://github.com/BetaGroupBe/BetaRobot
+  Sources available at https://github.com/BetaGroup/BetaRobot
 
   Authors:
     - Julie Foulon
